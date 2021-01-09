@@ -1,0 +1,1 @@
+-- find the average duration of flights from flights table, round it to largest integer less than or equal to avg duration and show a table having field 'avg_duration' with corresonding value.

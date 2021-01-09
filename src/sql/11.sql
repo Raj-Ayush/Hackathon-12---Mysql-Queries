@@ -1,0 +1,1 @@
+-- Query all the flights going from 'JFK' and 'LIM' from flights table
